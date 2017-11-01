@@ -1,0 +1,40 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/Users/schandragupt/Documents/bumblebee-repos/ThreadBootCamp/src/main/scala/basics/join/JoinExecuter.scala, /Users/schandragupt/Documents/bumblebee-repos/ThreadBootCamp/src/main/scala/basics/util/RunnableWithWait.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/schandragupt/Documents/bumblebee-repos/ThreadBootCamp/src/main/scala/basics/join/JoinExecuter.scala, /Users/schandragupt/Documents/bumblebee-repos/ThreadBootCamp/src/main/scala/basics/util/RunnableWithWait.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/schandragupt/Documents/bumblebee-repos/ThreadBootCamp/src/main/scala/basics/join/JoinExecuter.scala, /Users/schandragupt/Documents/bumblebee-repos/ThreadBootCamp/src/main/scala/basics/util/RunnableWithWait.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to /Users/schandragupt/Documents/bumblebee-repos/ThreadBootCamp/target/scala-2.12/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.12.3[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.12.3  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/var/folders/t0/cs21p_mj3n9dnqhl7glxh0658c1mtd/T/sbt_fb5d7a3c[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/classes:/Users/schandragupt/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.3.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/schandragupt/.sbt/boot/scala-2.10.4/org.scala-sbt/sbt/0.13.8/xsbti/interface-0.13.8.jar:/Users/schandragupt/.sbt/boot/scala-2.10.4/org.scala-sbt/sbt/0.13.8/compiler-interface-src/compiler-interface-src-0.13.8.jar:/Users/schandragupt/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.12.3.jar:/Users/schandragupt/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.3.jar:/Users/schandragupt/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/bundles/scala-xml_2.12-1.0.6.jar:/Users/schandragupt/.ivy2/cache/jline/jline/jars/jline-2.14.4.jar[0m
+[0m[[0mdebug[0m] [0m	/var/folders/t0/cs21p_mj3n9dnqhl7glxh0658c1mtd/T/sbt_b12eb1ef/xsbt/API.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/t0/cs21p_mj3n9dnqhl7glxh0658c1mtd/T/sbt_b12eb1ef/xsbt/Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/t0/cs21p_mj3n9dnqhl7glxh0658c1mtd/T/sbt_b12eb1ef/xsbt/Command.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/t0/cs21p_mj3n9dnqhl7glxh0658c1mtd/T/sbt_b12eb1ef/xsbt/Compat.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/t0/cs21p_mj3n9dnqhl7glxh0658c1mtd/T/sbt_b12eb1ef/xsbt/CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/t0/cs21p_mj3n9dnqhl7glxh0658c1mtd/T/sbt_b12eb1ef/xsbt/ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/t0/cs21p_mj3n9dnqhl7glxh0658c1mtd/T/sbt_b12eb1ef/xsbt/DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/t0/cs21p_mj3n9dnqhl7glxh0658c1mtd/T/sbt_b12eb1ef/xsbt/Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/t0/cs21p_mj3n9dnqhl7glxh0658c1mtd/T/sbt_b12eb1ef/xsbt/ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/t0/cs21p_mj3n9dnqhl7glxh0658c1mtd/T/sbt_b12eb1ef/xsbt/ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/t0/cs21p_mj3n9dnqhl7glxh0658c1mtd/T/sbt_b12eb1ef/xsbt/LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/t0/cs21p_mj3n9dnqhl7glxh0658c1mtd/T/sbt_b12eb1ef/xsbt/Log.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/t0/cs21p_mj3n9dnqhl7glxh0658c1mtd/T/sbt_b12eb1ef/xsbt/Message.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/t0/cs21p_mj3n9dnqhl7glxh0658c1mtd/T/sbt_b12eb1ef/xsbt/ScaladocInterface.scala[0m
